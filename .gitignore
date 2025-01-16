@@ -1,0 +1,19 @@
+# Visual Studio Build Artifacts
+[Bb]in/
+[Oo]bj/
+
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+
+# Resharper
+_ReSharper.Caches/
+*.DotSettings.user
+
+# LocalHistory
+.localhistory/
+
+# .NET Framework Packages
+packages/

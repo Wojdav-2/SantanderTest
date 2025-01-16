@@ -1,0 +1,6 @@
+@SantanderTest_HostAddress = http://localhost:5137
+
+GET {{SantanderTest_HostAddress}}/BestStories/10
+Accept: application/json
+
+###
